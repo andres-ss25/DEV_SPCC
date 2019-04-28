@@ -7,7 +7,7 @@ Los desarrollos realizados son:
 
 - Procedimientos de datos
 - Visualizador de conflictividades.  
-- [Mapa narrativas de Paz] (https://github.com/andres-ss25/webMapOPC_Narrativas_PAZ)
+- [Mapa narrativas de Paz](https://andres-ss25.github.io/webMapOPC_Narrativas_PAZ/)
 
 _____________
 
